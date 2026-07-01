@@ -6,3 +6,6 @@ venv/
 .venv/
 *.db
 .pytest_cache/
+
+# Secrets & payloads
+login_payload.json
